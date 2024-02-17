@@ -5,8 +5,8 @@ Made by neverloseyoursmile_88 and isw_.
 # its a fun project and im (neverloseyoursmile_88) trash at HTML and CSS (fat ass Ömer is sleeping rn)
 
 # !!!!!!!!PLEASE READ!!!!!!
-
-# You need to set the Token in main.js yourself! (you can find the token in launch.cfg but PLEASE without '|RO-EXEC' TY!
+ 
+You need to set the Token in main.js yourself! (you can find the token in launch.cfg but PLEASE without '|RO-EXEC' TY!
 
 # Comannd to Run
 -> python main.py
