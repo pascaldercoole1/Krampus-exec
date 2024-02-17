@@ -1,5 +1,6 @@
 # Krampus-exec
 Made by neverloseyoursmile_88 and isw_.
+\n
 -> https://discord.gg/NeverLoseYourSmile
 -> https://discord.gg/twiz
 
